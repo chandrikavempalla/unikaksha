@@ -1,2 +1,9 @@
 #hello world
 print("hello world")
+
+
+#hello world with tab
+print('Hello World\tHello World')
+
+#hello world with new line
+print('Hello World\nHello World')
